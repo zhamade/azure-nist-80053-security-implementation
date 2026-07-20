@@ -28,7 +28,7 @@ Virtual Machines
 
 Storage Accounts
 
-Objectives
+Objectives:
 
 Implement least privilege using Azure RBAC
 
